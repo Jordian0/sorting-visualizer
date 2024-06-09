@@ -24,14 +24,14 @@ Please note that the sorting time being visualized for an algorithm is not exact
 2. Compile the source code using a C++ compiler with the SDL2 library installed.
 3. Run the executable file.
 4. Use the following controls to interact with the Sorting Visualizer:
-    - Press `0` to generate a different randomized list.
-    - Press `1` to start Selection Sort.
-    - Press `2` to start Insertion Sort.
-    - Press `3` to start Bubble Sort.
-    - Press `4` to start Merge Sort.
-    - Press `5` to start Quick Sort.
-    - Press `6` to start Heap Sort.
-    - Press `q` to exit the Sorting Visualizer.
+    - Press `0` to generate a different randomized list
+    - Press `1` to start Selection Sort
+    - Press `2` to start Insertion Sort
+    - Press `3` to start Bubble Sort
+    - Press `4` to start Merge Sort
+    - Press `5` to start Quick Sort
+    - Press `6` to start Heap Sort
+    - Press `q` to exit the Sorting Visualizer
 
 ## Animation Speed
 
